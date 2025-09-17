@@ -14,4 +14,4 @@ else:
     hxtra = h - 40
     pxtra = hxtra * r * 1.5
     ptotal = p + pxtra
-    print("Pay: ", ptotal)
+    print(ptotal)
